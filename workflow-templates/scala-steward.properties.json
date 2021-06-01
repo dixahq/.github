@@ -5,5 +5,5 @@
   "categories": [
       "Scala"
   ],
-  "filePatterns": ["build.sbt"]
+  "filePatterns": []
 }
